@@ -4,3 +4,6 @@
 [submodule "ServiciosProfesionales-Java"]
 	path = ServiciosProfesionales-Java
 	url = https://github.com/MatiasS14/ServiciosProfesionales-Java.git
+[submodule "InscripcionesAMaterias-Java"]
+	path = InscripcionesAMaterias-Java
+	url = https://github.com/MatiasS14/InscripcionesAMaterias-Java.git
