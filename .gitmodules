@@ -7,3 +7,6 @@
 [submodule "InscripcionesAMaterias-Java"]
 	path = InscripcionesAMaterias-Java
 	url = https://github.com/MatiasS14/InscripcionesAMaterias-Java.git
+[submodule "faceless-Java"]
+	path = faceless-Java
+	url = https://github.com/MatiasS14/faceless-Java.git
