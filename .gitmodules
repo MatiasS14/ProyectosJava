@@ -1,3 +1,6 @@
 [submodule "OktubreFest-Java"]
 	path = OktubreFest-Java
 	url = https://github.com/MatiasS14/OktubreFest-Java.git
+[submodule "ServiciosProfesionales-Java"]
+	path = ServiciosProfesionales-Java
+	url = https://github.com/MatiasS14/ServiciosProfesionales-Java.git
