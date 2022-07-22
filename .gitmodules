@@ -10,3 +10,6 @@
 [submodule "faceless-Java"]
 	path = faceless-Java
 	url = https://github.com/MatiasS14/faceless-Java.git
+[submodule "LaGranChef-Java"]
+	path = LaGranChef-Java
+	url = https://github.com/MatiasS14/LaGranChef-Java.git
